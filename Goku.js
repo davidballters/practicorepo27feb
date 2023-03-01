@@ -1,2 +1,2 @@
 ARCHIVO GOKU 
-super sayayin 3
+super sayayin 3, gogeta
