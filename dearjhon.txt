@@ -1,7 +1,4 @@
 fav movie, makes me cry
-<<<<<<< HEAD
 Marley and me
 I always cry in the same part of the movie, when jhons dad dies and he is alone in the hospital
-=======
 Marley and me, a prueba de fuego 
->>>>>>> 7c45121d262c0581f4681bf598d76c4db58dce14
